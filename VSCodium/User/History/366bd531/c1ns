@@ -1,0 +1,20 @@
+inital commit
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch main
+# Changes to be committed:
+#	modified:   VSCodium/DawnGraphiteCache/data_1
+#	modified:   VSCodium/DawnWebGPUCache/data_1
+#	modified:   VSCodium/GPUCache/data_1
+#	new file:   VSCodium/User/History/-2d47a849/0ZzR.json
+#	modified:   VSCodium/User/globalStorage/state.vscdb
+#	modified:   VSCodium/User/globalStorage/storage.json
+#	modified:   VSCodium/User/workspaceStorage/5bd79c103d7cbd36322b1574b49f4c65/state.vscdb
+#	modified:   VSCodium/logs/20241218T171340/window1/exthost/exthost.log
+#	modified:   VSCodium/logs/20241218T171340/window1/exthost/vscode.git/Git.log
+#	new file:   VSCodium/logs/20241218T171340/window1/exthost/vscode.github-authentication/GitHub Authentication.log
+#
+# Changes not staged for commit:
+#	modified:   VSCodium/logs/20241218T171340/window1/exthost/vscode.git/Git.log
+#

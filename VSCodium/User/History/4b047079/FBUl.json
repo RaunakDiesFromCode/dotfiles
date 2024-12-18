@@ -1,0 +1,16 @@
+{
+    "editor.minimap.enabled": false,
+    "files.autoSave": "afterDelay",
+    "explorer.confirmDragAndDrop": false,
+    "editor.fontFamily": "CaskaydiaCove NF",
+    "workbench.iconTheme": "catppuccin-mocha",
+    "workbench.colorTheme": "Catppuccin Mocha",
+    "editor.mouseWheelZoom": true,
+    "editor.codeLensFontFamily": "CaskaydiaCove NF",
+    "editor.inlayHints.fontFamily": "CaskaydiaCove NF",
+    "editor.fontLigatures": true,
+    "editor.inlineSuggest.fontFamily": "CaskaydiaCove NF",
+    "terminal.integrated.fontFamily": "CaskaydiaCove NF",
+    "notebook.output.fontFamily": "CaskaydiaCove NF",
+    "git.enableSmartCommit": true
+}

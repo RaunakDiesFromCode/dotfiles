@@ -1,0 +1,36 @@
+2024-12-17 23:31:25.638 [info] Getting Manifest... catppuccin.catppuccin-vsc
+2024-12-17 23:31:26.798 [info] Getting Manifest... catppuccin.catppuccin-vsc-icons
+2024-12-17 23:31:27.153 [info] Installing extension: catppuccin.catppuccin-vsc {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/raunakm/.vscode-oss/extensions/extensions.json","path":"/home/raunakm/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.96.0","date":"2024-12-12T16:24:27.456Z"}}
+2024-12-17 23:31:27.334 [info] Installing extension: catppuccin.catppuccin-vsc-icons {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/raunakm/.vscode-oss/extensions/extensions.json","path":"/home/raunakm/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.96.0","date":"2024-12-12T16:24:27.456Z"}}
+2024-12-17 23:31:28.256 [info] Extracted extension to file:///home/raunakm/.vscode-oss/extensions/catppuccin.catppuccin-vsc-3.15.2-universal: catppuccin.catppuccin-vsc
+2024-12-17 23:31:28.301 [info] Renamed to /home/raunakm/.vscode-oss/extensions/catppuccin.catppuccin-vsc-3.15.2-universal
+2024-12-17 23:31:28.336 [info] Extension installed successfully: catppuccin.catppuccin-vsc vscode-userdata:/home/raunakm/.vscode-oss/extensions/extensions.json
+2024-12-17 23:31:28.383 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/raunakm/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/raunakm/.vscode-oss/extensions/extensions.json.vsctmp'
+    at Kv.create (file:///opt/vscodium-bin/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:44554)
+    at xi (file:///opt/vscodium-bin/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:44661)
+    at jn.toFileSystemProviderError (file:///opt/vscodium-bin/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:28652)
+    at jn.stat (file:///opt/vscodium-bin/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:20509)
+    at async vu.stat (file:///opt/vscodium-bin/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:103140)
+    at async du.onDidFilesChange (file:///opt/vscodium-bin/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:80829)
+2024-12-17 23:31:31.608 [info] Extracted extension to file:///home/raunakm/.vscode-oss/extensions/catppuccin.catppuccin-vsc-icons-1.17.0-universal: catppuccin.catppuccin-vsc-icons
+2024-12-17 23:31:31.705 [info] Renamed to /home/raunakm/.vscode-oss/extensions/catppuccin.catppuccin-vsc-icons-1.17.0-universal
+2024-12-17 23:31:31.731 [info] Extension installed successfully: catppuccin.catppuccin-vsc-icons vscode-userdata:/home/raunakm/.vscode-oss/extensions/extensions.json
+2024-12-17 23:31:31.787 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/raunakm/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/raunakm/.vscode-oss/extensions/extensions.json.vsctmp'
+    at Kv.create (file:///opt/vscodium-bin/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:44554)
+    at xi (file:///opt/vscodium-bin/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:44661)
+    at jn.toFileSystemProviderError (file:///opt/vscodium-bin/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:28652)
+    at jn.stat (file:///opt/vscodium-bin/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:20509)
+    at async vu.stat (file:///opt/vscodium-bin/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:103140)
+    at async du.onDidFilesChange (file:///opt/vscodium-bin/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:80829)
+2024-12-17 23:33:24.840 [info] Getting Manifest... s-nlf-fh.glassit
+2024-12-17 23:33:25.812 [info] Installing extension: s-nlf-fh.glassit {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/raunakm/.vscode-oss/extensions/extensions.json","path":"/home/raunakm/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.96.0","date":"2024-12-12T16:24:27.456Z"}}
+2024-12-17 23:33:26.387 [info] Extracted extension to file:///home/raunakm/.vscode-oss/extensions/s-nlf-fh.glassit-0.2.3-universal: s-nlf-fh.glassit
+2024-12-17 23:33:26.410 [info] Renamed to /home/raunakm/.vscode-oss/extensions/s-nlf-fh.glassit-0.2.3-universal
+2024-12-17 23:33:26.436 [info] Extension installed successfully: s-nlf-fh.glassit vscode-userdata:/home/raunakm/.vscode-oss/extensions/extensions.json
+2024-12-17 23:33:26.492 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/raunakm/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/raunakm/.vscode-oss/extensions/extensions.json.vsctmp'
+    at Kv.create (file:///opt/vscodium-bin/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:44554)
+    at xi (file:///opt/vscodium-bin/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:44661)
+    at jn.toFileSystemProviderError (file:///opt/vscodium-bin/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:28652)
+    at jn.stat (file:///opt/vscodium-bin/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:20509)
+    at async vu.stat (file:///opt/vscodium-bin/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:103140)
+    at async du.onDidFilesChange (file:///opt/vscodium-bin/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:80829)

@@ -1,0 +1,15 @@
+2024-12-18 16:25:51.768 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.vscode-selfhost-test-provider' wants API proposal 'attributableCoverage' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2024-12-18 16:25:51.768 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2024-12-18 16:25:51.768 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.debugpy' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2024-12-18 16:25:52.092 [info] Started local extension host with pid 5953.
+2024-12-18 16:25:54.673 [info] [perf] Render performance baseline is 22ms
+2024-12-18 16:25:57.599 [error] Timed out waiting for authentication provider to register
+2024-12-18 16:33:44.985 [warning] Settings pattern "issueReporter.*" doesn't match any settings
+2024-12-18 16:34:16.501 [warning] Settings pattern "issueReporter.*" doesn't match any settings
+2024-12-18 16:34:31.148 [warning] Settings pattern "issueReporter.*" doesn't match any settings
+2024-12-18 16:34:44.056 [warning] Settings pattern "issueReporter.*" doesn't match any settings
+2024-12-18 16:35:03.380 [warning] Settings pattern "issueReporter.*" doesn't match any settings
+2024-12-18 16:35:06.492 [warning] Settings pattern "issueReporter.*" doesn't match any settings
+2024-12-18 16:35:08.001 [warning] Settings pattern "issueReporter.*" doesn't match any settings
+2024-12-18 16:35:26.665 [warning] Settings pattern "issueReporter.*" doesn't match any settings
+2024-12-18 16:40:40.327 [warning] Settings pattern "issueReporter.*" doesn't match any settings

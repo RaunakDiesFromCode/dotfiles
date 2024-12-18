@@ -1,0 +1,31 @@
+2024-12-17 23:31:12.941 [info] Extension host with pid 2076 started
+2024-12-17 23:31:12.941 [info] Skipping acquiring lock for /home/raunakm/.config/VSCodium/User/workspaceStorage/5bd79c103d7cbd36322b1574b49f4c65.
+2024-12-17 23:31:13.200 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-12-17 23:31:13.455 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-12-17 23:31:13.642 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-12-17 23:31:14.190 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-12-17 23:31:14.720 [info] Eager extensions activated
+2024-12-17 23:31:14.734 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-12-17 23:31:14.805 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-12-17 23:31:28.429 [info] ExtensionService#_doActivateExtension Catppuccin.catppuccin-vsc, startup: false, activationEvent: 'onStartupFinished'
+2024-12-17 23:31:31.927 [info] ExtensionService#_doActivateExtension Catppuccin.catppuccin-vsc-icons, startup: false, activationEvent: 'onStartupFinished'
+2024-12-17 23:31:39.036 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-12-17 23:31:39.264 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-12-17 23:31:39.497 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-12-17 23:33:26.512 [info] ExtensionService#_doActivateExtension s-nlf-fh.glassit, startup: false, activationEvent: '*'
+2024-12-17 23:33:26.568 [error] Activating extension s-nlf-fh.glassit failed due to an error:
+2024-12-17 23:33:26.568 [error] Error: Command failed: pgrep 'code'
+	at genericNodeError (node:internal/errors:984:15)
+	at wrappedFn (node:internal/errors:538:14)
+	at checkExecSyncError (node:child_process:906:11)
+	at Object.execSync (node:child_process:978:15)
+	at Object.execSync (node:electron/js2c/node_init:2:16318)
+	at activate (/home/raunakm/.vscode-oss/extensions/s-nlf-fh.glassit-0.2.3-universal/extension.js:46:31)
+	at I0._callActivateOptional (file:///opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:18633)
+	at I0._callActivate (file:///opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:18302)
+	at file:///opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:119:16236
+	at async Z_._activate (file:///opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:5653)
+	at async Z_._waitForDepsThenActivate (file:///opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:5595)
+	at async Z_._initialize (file:///opt/vscodium-bin/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:115:4958)
+2024-12-17 23:33:41.929 [info] Extension host terminating: renderer closed the MessagePort
+2024-12-17 23:33:41.940 [info] Extension host with pid 2076 exiting with code 0

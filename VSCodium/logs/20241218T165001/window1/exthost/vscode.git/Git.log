@@ -1,0 +1,122 @@
+2024-12-18 16:50:12.477 [info] [main] Log level: Info
+2024-12-18 16:50:12.477 [info] [main] Validating found git in: "git"
+2024-12-18 16:50:13.024 [info] [main] Using git "2.47.1" from "git"
+2024-12-18 16:50:13.024 [info] [Model][doInitialScan] Initial repository scan started
+2024-12-18 16:50:13.369 [info] > git rev-parse --show-toplevel [335ms]
+2024-12-18 16:50:13.369 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-12-18 16:50:13.378 [info] > git rev-parse --show-toplevel [2ms]
+2024-12-18 16:50:13.378 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-12-18 16:50:13.384 [info] > git rev-parse --show-toplevel [0ms]
+2024-12-18 16:50:13.384 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-12-18 16:50:13.388 [info] > git rev-parse --show-toplevel [1ms]
+2024-12-18 16:50:13.388 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-12-18 16:50:13.592 [info] > git rev-parse --show-toplevel [201ms]
+2024-12-18 16:50:13.592 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-12-18 16:50:13.605 [info] > git rev-parse --show-toplevel [2ms]
+2024-12-18 16:50:13.605 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-12-18 16:50:13.629 [info] > git rev-parse --show-toplevel [20ms]
+2024-12-18 16:50:13.629 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-12-18 16:50:13.633 [info] > git rev-parse --show-toplevel [1ms]
+2024-12-18 16:50:13.633 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-12-18 16:50:13.637 [info] > git rev-parse --show-toplevel [1ms]
+2024-12-18 16:50:13.637 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-12-18 16:50:13.641 [info] > git rev-parse --show-toplevel [0ms]
+2024-12-18 16:50:13.641 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-12-18 16:50:13.644 [info] > git rev-parse --show-toplevel [1ms]
+2024-12-18 16:50:13.644 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-12-18 16:50:13.648 [info] > git rev-parse --show-toplevel [1ms]
+2024-12-18 16:50:13.648 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-12-18 16:50:13.651 [info] > git rev-parse --show-toplevel [1ms]
+2024-12-18 16:50:13.651 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-12-18 16:50:13.654 [info] > git rev-parse --show-toplevel [0ms]
+2024-12-18 16:50:13.654 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-12-18 16:50:13.658 [info] > git rev-parse --show-toplevel [1ms]
+2024-12-18 16:50:13.658 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-12-18 16:50:13.718 [info] > git rev-parse --show-toplevel [57ms]
+2024-12-18 16:50:13.722 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2024-12-18 16:50:13.731 [info] [Model][openRepository] Opened repository: /home/raunakm/.config/nvim
+2024-12-18 16:50:13.743 [info] > git rev-parse --show-toplevel [3ms]
+2024-12-18 16:50:13.743 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-12-18 16:50:13.743 [info] > git config --get commit.template [7ms]
+2024-12-18 16:50:13.755 [info] > git rev-parse --show-toplevel [6ms]
+2024-12-18 16:50:13.755 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-12-18 16:50:13.760 [info] > git rev-parse --show-toplevel [1ms]
+2024-12-18 16:50:13.760 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-12-18 16:50:13.765 [info] > git rev-parse --show-toplevel [1ms]
+2024-12-18 16:50:13.765 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-12-18 16:50:13.785 [info] > git rev-parse --show-toplevel [16ms]
+2024-12-18 16:50:13.785 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-12-18 16:50:13.791 [info] > git rev-parse --show-toplevel [1ms]
+2024-12-18 16:50:13.791 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-12-18 16:50:13.795 [info] > git rev-parse --show-toplevel [1ms]
+2024-12-18 16:50:13.795 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-12-18 16:50:13.799 [info] > git rev-parse --show-toplevel [1ms]
+2024-12-18 16:50:13.799 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-12-18 16:50:13.799 [info] [Model][doInitialScan] Initial repository scan completed - repositories (1), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2024-12-18 16:50:13.831 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [77ms]
+2024-12-18 16:50:13.834 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/raunakm/.config/nvim/.git/refs/remotes/origin/main'
+2024-12-18 16:50:13.834 [info] > git rev-parse refs/remotes/origin/main [0ms]
+2024-12-18 16:50:13.904 [info] > git status -z -uall [66ms]
+2024-12-18 16:50:13.924 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [81ms]
+2024-12-18 16:50:13.935 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [5ms]
+2024-12-18 16:50:13.942 [info] > git config --local branch.main.vscode-merge-base [2ms]
+2024-12-18 16:50:13.945 [info] > git config --get commit.template [10ms]
+2024-12-18 16:50:13.946 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/main refs/remotes/origin/main [1ms]
+2024-12-18 16:50:13.961 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-12-18 16:50:13.964 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/raunakm/.config/nvim/.git/refs/remotes/origin/main'
+2024-12-18 16:50:13.965 [info] > git rev-parse refs/remotes/origin/main [0ms]
+2024-12-18 16:50:13.970 [info] > git merge-base refs/heads/main refs/remotes/origin/main [21ms]
+2024-12-18 16:50:13.974 [info] > git status -z -uall [7ms]
+2024-12-18 16:50:13.974 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [4ms]
+2024-12-18 16:50:13.981 [info] > git merge-base refs/heads/main refs/remotes/origin/main [2ms]
+2024-12-18 16:50:13.984 [info] > git diff --name-status -z --diff-filter=ADMR 16fac4a0ec93749059d753e3bf21f28cd2631421...refs/remotes/origin/main [11ms]
+2024-12-18 16:50:13.985 [info] > git diff --name-status -z --diff-filter=ADMR 16fac4a0ec93749059d753e3bf21f28cd2631421...refs/remotes/origin/main [1ms]
+2024-12-18 16:55:53.293 [info] > git check-ignore -v -z --stdin [2ms]
+2024-12-18 16:55:53.659 [info] > git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%D%n%B -z --shortstat --diff-merges=first-parent -n50 --skip=0 --topo-order --decorate=full --stdin [111ms]
+2024-12-18 16:55:53.703 [info] > git rev-parse --show-toplevel [7ms]
+2024-12-18 16:55:53.703 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-12-18 16:55:54.270 [info] > git check-ignore -v -z --stdin [5ms]
+2024-12-18 16:56:03.594 [info] > git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%D%n%B -z --shortstat --diff-merges=first-parent -n50 --skip=0 --topo-order --decorate=full --stdin [153ms]
+2024-12-18 16:56:05.997 [info] > git show --textconv HEAD:init.lua [13ms]
+2024-12-18 16:56:06.001 [info] > git ls-tree -l HEAD -- /home/raunakm/.config/nvim/init.lua [4ms]
+2024-12-18 16:56:17.924 [info] > git ls-tree -l HEAD -- /home/raunakm/.config/nvim/init.lua [2ms]
+2024-12-18 16:56:19.729 [info] > git checkout -q -- /home/raunakm/.config/nvim/init.lua [566ms]
+2024-12-18 16:56:19.743 [info] > git config --get commit.template [1ms]
+2024-12-18 16:56:19.754 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2024-12-18 16:56:19.762 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/raunakm/.config/nvim/.git/refs/remotes/origin/main'
+2024-12-18 16:56:19.766 [info] > git rev-parse refs/remotes/origin/main [4ms]
+2024-12-18 16:56:19.804 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [18ms]
+2024-12-18 16:56:19.821 [info] > git status -z -uall [45ms]
+2024-12-18 16:56:20.176 [info] > git blame --root --incremental 16fac4a0ec93749059d753e3bf21f28cd2631421 -- /home/raunakm/.config/nvim/init.lua [131ms]
+2024-12-18 16:56:20.880 [info] > git ls-tree -l HEAD -- /home/raunakm/.config/nvim/init.lua [2ms]
+2024-12-18 16:56:20.897 [info] > git show --textconv HEAD:init.lua [4ms]
+2024-12-18 16:56:21.900 [info] > git check-ignore -v -z --stdin [13ms]
+2024-12-18 16:56:21.902 [info] > git config --get commit.template [3ms]
+2024-12-18 16:56:21.920 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [4ms]
+2024-12-18 16:56:21.930 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/raunakm/.config/nvim/.git/refs/remotes/origin/main'
+2024-12-18 16:56:21.931 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2024-12-18 16:56:21.951 [info] > git status -z -uall [9ms]
+2024-12-18 16:56:21.959 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [8ms]
+2024-12-18 16:56:28.143 [info] > git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%D%n%B -z --shortstat --diff-merges=first-parent -n50 --skip=0 --topo-order --decorate=full --stdin [49ms]
+2024-12-18 16:56:32.844 [info] > git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%D%n%B -z --shortstat --diff-merges=first-parent -n50 --skip=50 --topo-order --decorate=full --stdin [47ms]
+2024-12-18 16:56:36.685 [info] > git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%D%n%B -z --shortstat --diff-merges=first-parent -n50 --skip=100 --topo-order --decorate=full --stdin [58ms]
+2024-12-18 16:57:37.423 [warning] [Git][getHEAD] Failed to parse HEAD file: ENOENT: no such file or directory, open '/home/raunakm/.config/nvim/.git/HEAD'
+2024-12-18 16:57:37.436 [warning] [Git][getRemotes] Error: ENOENT: no such file or directory, open '/home/raunakm/.config/nvim/.git/config'
+2024-12-18 16:57:37.465 [info] > git config --get commit.template [15ms]
+2024-12-18 16:57:37.486 [info] > git remote --verbose [49ms]
+2024-12-18 16:57:37.486 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-12-18 16:57:37.499 [info] > git ls-tree -l HEAD -- /home/raunakm/.config/nvim/init.lua [35ms]
+2024-12-18 16:57:37.499 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-12-18 16:57:37.511 [warning] [Git][getHEAD] Failed to parse HEAD file: ENOENT: no such file or directory, open '/home/raunakm/.config/nvim/.git/HEAD'
+2024-12-18 16:57:37.525 [warning] [Git][getRemotes] Error: ENOENT: no such file or directory, open '/home/raunakm/.config/nvim/.git/config'
+2024-12-18 16:57:37.532 [info] > git symbolic-ref --short HEAD [109ms]
+2024-12-18 16:57:37.532 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-12-18 16:57:37.541 [info] > git rev-parse HEAD [1ms]
+2024-12-18 16:57:37.541 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-12-18 16:57:37.542 [info] > git config --get commit.template [10ms]
+2024-12-18 16:57:37.542 [info] > git remote --verbose [18ms]
+2024-12-18 16:57:37.542 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-12-18 16:57:37.542 [info] > git symbolic-ref --short HEAD [31ms]
+2024-12-18 16:57:37.542 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-12-18 16:57:37.554 [info] > git rev-parse HEAD [2ms]
+2024-12-18 16:57:37.554 [info] fatal: not a git repository (or any of the parent directories): .git

@@ -1,0 +1,13 @@
+2024-12-18 17:02:32.721 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.vscode-selfhost-test-provider' wants API proposal 'attributableCoverage' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2024-12-18 17:02:32.721 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2024-12-18 17:02:32.722 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.debugpy' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2024-12-18 17:02:33.240 [info] Started local extension host with pid 2373.
+2024-12-18 17:02:37.196 [error] Error: Unable to read file 'git:/home/raunakm/.config/nvim/init.lua?{"path":"/home/raunakm/.config/nvim/init.lua","ref":"~"}' (Error: Unable to resolve nonexistent file 'git:/home/raunakm/.config/nvim/init.lua?{"path":"/home/raunakm/.config/nvim/init.lua","ref":"~"}')
+    at zrt.restoreReadError (vscode-file://vscode-app/opt/vscodium-bin/resources/app/out/vs/workbench/workbench.desktop.main.js:3109:89977)
+    at zrt.doReadFileStream (vscode-file://vscode-app/opt/vscodium-bin/resources/app/out/vs/workbench/workbench.desktop.main.js:3109:89758)
+    at async sat.doRead (vscode-file://vscode-app/opt/vscodium-bin/resources/app/out/vs/workbench/workbench.desktop.main.js:3116:12971)
+    at async sat.readStream (vscode-file://vscode-app/opt/vscodium-bin/resources/app/out/vs/workbench/workbench.desktop.main.js:3116:12726)
+    at async Mge.resolveFromFile (vscode-file://vscode-app/opt/vscodium-bin/resources/app/out/vs/workbench/workbench.desktop.main.js:1295:15912)
+    at async Mge.resolve (vscode-file://vscode-app/opt/vscodium-bin/resources/app/out/vs/workbench/workbench.desktop.main.js:1295:14074)
+2024-12-18 17:02:40.062 [info] [perf] Render performance baseline is 22ms
+2024-12-18 17:02:40.632 [error] Timed out waiting for authentication provider to register

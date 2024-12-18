@@ -1,0 +1,10 @@
+2024-12-17 23:34:10.533 [info] Uninstalling extension from the profile: s-nlf-fh.glassit@0.2.3 vscode-userdata:/home/raunakm/.vscode-oss/extensions/extensions.json
+2024-12-17 23:34:10.589 [info] Marked extension as uninstalled s-nlf-fh.glassit-0.2.3-universal
+2024-12-17 23:34:10.618 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/raunakm/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/raunakm/.vscode-oss/extensions/extensions.json.vsctmp'
+    at Kv.create (file:///opt/vscodium-bin/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:44554)
+    at xi (file:///opt/vscodium-bin/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:44661)
+    at jn.toFileSystemProviderError (file:///opt/vscodium-bin/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:28652)
+    at jn.stat (file:///opt/vscodium-bin/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:20509)
+    at async vu.stat (file:///opt/vscodium-bin/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:103140)
+    at async du.onDidFilesChange (file:///opt/vscodium-bin/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:80829)
+2024-12-17 23:34:11.733 [info] Successfully uninstalled extension from the profile s-nlf-fh.glassit@0.2.3 vscode-userdata:/home/raunakm/.vscode-oss/extensions/extensions.json

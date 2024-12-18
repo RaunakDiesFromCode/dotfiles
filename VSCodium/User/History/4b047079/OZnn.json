@@ -1,0 +1,7 @@
+{
+    "editor.minimap.enabled": false,
+    "files.autoSave": "afterDelay",
+    "explorer.confirmDragAndDrop": false,
+    "editor.fontFamily": "CaskaydiaCove NF",
+    "workbench.iconTheme": "catppuccin-frappe"
+}
